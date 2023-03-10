@@ -6,6 +6,8 @@
 
 <p align="center">I'm a 24-year-old Salesforce Developer who loves coding, working in IT world for 2 years. I'm good at LWC, Aura, Integration, Apex, and Apex Triggers. Now working on my skills to improve myself.</p>
 
+<p>&nbsp;</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aysenuru&label=Profile%20views&color=0e75b6&style=flat" alt="aysenuru" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aysenuru" alt="aysenuru" /></a> </p>
