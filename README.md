@@ -4,6 +4,8 @@
 
 <h3 align="center">A passionate Salesforce developer from USA.</h3>
 
+<p>&nbsp;</p>
+
 <p align="center">I'm a 24-year-old Salesforce Developer who loves coding, working in IT world for 2 years. I'm good at LWC, Aura, Integration, Apex, and Apex Triggers. Now working on my skills to improve myself.</p>
 
 <p>&nbsp;</p>
