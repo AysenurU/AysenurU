@@ -6,7 +6,7 @@
 
 <p>&nbsp;</p>
 
-<p align="center">I'm a 24-year-old Salesforce Developer who loves coding, working in IT world for 2 years. I'm good at LWC, Aura, Integration, Apex, and Apex Triggers. Now working on my skills to improve myself.</p>
+<p align="center">I'm a 24-year-old Salesforce Developer who loves coding, working in IT world for 3 years. I'm good at LWC, Aura, Integration, Apex, and Apex Triggers. Now working on my skills to improve myself. I'm always open to learn new skills. I'm fast learner and self-motivated.</p>
 
 <p>&nbsp;</p>
 
