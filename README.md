@@ -1,6 +1,7 @@
 <img src="https://github.com/AysenurU/AysenurU/blob/main/BANNER.jpg?raw=true">
 
-<h1 align="center">Hi 👋, I'm Aysenur Ucar</h1>
+<h1 align="center">Hi 👋, I'm Aysenur Ucar :handshake:</h1>
+<div class=""></div>
 
 <h3 align="center">A passionate Salesforce developer from USA.</h3>
 
