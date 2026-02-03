@@ -1,4 +1,4 @@
-<img src="https://github.com/AysenurU/AysenurU/blob/main/BANNER.jpg?raw=true">
+<img src="">
 
 <h1 align="center">Hi 👋, I'm Aysenur Ucar</h1>
 
