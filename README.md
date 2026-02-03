@@ -2,11 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Aysenur Ucar</h1>
 
-<h3 align="center">A passionate Salesforce developer from USA.</h3>
+<h3 align="center"> A passionate Data/CRM Analyst. </h3>
 
 <p>&nbsp;</p>
 
-<p align="center">I'm a 24-year-old Salesforce Developer who loves coding, working in IT world for 3 years. I'm good at LWC, Aura, Integration, Apex, and Apex Triggers. Now working on my skills to improve myself. I'm always open to learn new skills. I'm fast learner and self-motivated.</p>
+<p align="center">Aspiring Data & CRM Analyst with hands-on experience in SQL, Excel, Power BI, and Salesforce through project-based learning.
+Focused on analyzing data, building dashboards, and working with CRM data to generate meaningful business insights. Background in customer-facing and operations roles, bringing strong business understanding to analytical work.
+Currently seeking junior or internship opportunities in Data Analytics or CRM Analytics. Now working on my skills to improve myself. I'm always open to learn new skills. I'm a fast learner and self-motivated.</p>
 
 <p>&nbsp;</p>
 
@@ -17,8 +19,8 @@
 <p>&nbsp;</p>
 
 <ul>
-  <li>💬 Ask me about **HTML, JS, CSS, APEX, LWC, AURA, TRIGGER, INTEGRATION**</li> 
-  <li>📫 How to reach me **ucaraysenur1998@gmail.com**</li>
+  <li>💬 Ask me about **SQL / POWER BI / EXCEL / REPORTS **</li> 
+  <li>📫 How to reach me **https://www.linkedin.com/in/aysenuru/**</li>
 </ul>
 
 <p>&nbsp;</p>
@@ -29,17 +31,5 @@
 </p>
 
 <p>&nbsp;</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aysenuru&show_icons=true&locale=en&layout=compact" alt="aysenuru" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aysenuru&show_icons=true&locale=en" alt="aysenuru" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysenuru&" alt="aysenuru" /></p>
-
 
 
