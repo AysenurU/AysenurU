@@ -2,12 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Aysenur Ucar</h1>
 
-<h3 align="center"> A passionate Data Analyst. </h3>
+<h3 align="center"> Aspiring Data Analyst | SQL • Analytics • Data Modeling | Building production-style data projects
+ </h3>
 
 <p>&nbsp;</p>
 
 <p align="center">Aspiring Data & CRM Analyst with hands-on experience in SQL, Excel, Power BI, and Salesforce through project-based learning.
-Focused on analyzing data, building dashboards, and working with CRM data to generate meaningful business insights. Background in customer-facing and operations roles, bringing strong business understanding to analytical work.
+Focused on analyzing data, analytics engineering, SQL optimization, customer intelligence modeling, building dashboards, and working with CRM data to generate meaningful business insights. Background in customer-facing and operations roles, bringing strong business understanding to analytical work. 
+
 Currently seeking junior or internship opportunities in Data Analytics or CRM Analytics.</p>
 
 <p>&nbsp;</p>
